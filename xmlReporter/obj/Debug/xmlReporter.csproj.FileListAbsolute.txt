@@ -1,0 +1,7 @@
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlReporter.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlReporter.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\obj\Debug\xmlReporter.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\obj\Debug\xmlReporter.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlStorage.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlStorage.pdb

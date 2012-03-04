@@ -1,0 +1,11 @@
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\xmlStorage.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\xmlStorage.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Bson.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Driver.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Bson.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Bson.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Driver.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\MongoDB.Driver.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\xmlStorage.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\xmlStorage.pdb

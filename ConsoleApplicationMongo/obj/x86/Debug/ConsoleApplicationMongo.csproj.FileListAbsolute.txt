@@ -1,0 +1,14 @@
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.exe
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.pdb
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\MongoDB.Driver.dll
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\MongoDB.Driver.xml
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.exe
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.pdb
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\MongoDB.Linq.dll
+G:\Work\MongoDB\ConsoleApplicationMongo\ConsoleApplicationMongo\bin\Debug\MongoDB.Linq.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.pdb
