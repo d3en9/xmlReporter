@@ -12,6 +12,20 @@ namespace xmlReporter
     {
         static void Main(string[] args)
         {
+            TestInsert();
+        }
+
+        public static void TestInsert()
+        {
+            MongoDbHelper.Clear("xmlStorage");
+            for (int i = 0; i < 500; i++)
+            {
+                MongoDbHelper.JsonInsert("xmlStorage", String.Format("{{number: {0}}}",i));
+            }
+        }
+
+        public static void TestThreads()
+        {
             for (int i = 0; i < 10; i++)
             {
                 Thread t = new Thread(Work);
@@ -27,8 +41,7 @@ namespace xmlReporter
             foreach (string name in MongoDbHelper.getCollectionNames())
             {
                 Console.WriteLine((string)nameT + ": " + name);
-            }
-            
+            }            
         }
 
     }
