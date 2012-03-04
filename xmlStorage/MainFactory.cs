@@ -10,11 +10,11 @@ namespace xmlStorage
         public static T GetObject<T>()
         {
             T obj = default(T);
-            if (typeof(T)== typeof(Settings))
+            if (typeof(T)== typeof(DbSettings))
             {
-                obj = (T)Activator.CreateInstance(typeof(Settings));
-                (obj as Settings).ConnectionString = "mongodb://localhost";
-                (obj as Settings).DatabaseName = "xmlStorage";
+                obj = (T)Activator.CreateInstance(typeof(DbSettings));
+                (obj as DbSettings).ConnectionString = "mongodb://localhost";
+                (obj as DbSettings).DatabaseName = "xmlStorage";
             }
             return obj;
         }
