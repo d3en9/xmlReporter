@@ -10,7 +10,7 @@ namespace xmlStorage
 {
     public static class MongoDbHelper
     {
-        static DbSettings settings = MainFactory.GetObject<DbSettings>();
+        static DbSettings settings = GS.Instance.mainFactory.GetObject<DbSettings>();
         static MongoServer _server = null;
         static MongoServer server
         {

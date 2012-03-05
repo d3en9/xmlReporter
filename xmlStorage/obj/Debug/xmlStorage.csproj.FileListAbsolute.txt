@@ -9,3 +9,14 @@ C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debu
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\xmlStorage.dll
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\obj\Debug\xmlStorage.pdb
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\xmlStorage.dll
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\xmlStorage.pdb
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\MongoDB.Bson.pdb
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\MongoDB.Bson.xml
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\MongoDB.Driver.pdb
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\MongoDB.Driver.xml
+E:\FSFR\git\xmlReporter\xmlStorage\obj\Debug\ResolveAssemblyReference.cache
+E:\FSFR\git\xmlReporter\xmlStorage\obj\Debug\xmlStorage.dll
+E:\FSFR\git\xmlReporter\xmlStorage\obj\Debug\xmlStorage.pdb
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\log4net.dll
+E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\log4net.xml

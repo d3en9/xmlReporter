@@ -5,3 +5,19 @@ C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\obj\Deb
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\obj\Debug\xmlReporter.pdb
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlStorage.dll
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlStorage.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\obj\Debug\xmlReporter.exe
+E:\FSFR\git\xmlReporter\xmlReporter\obj\Debug\xmlReporter.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlReporter.exe
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlReporter.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlStorage.dll
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Driver.dll
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Bson.dll
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Driver.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Driver.xml
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlStorage.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Bson.pdb
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\MongoDB.Bson.xml
+E:\FSFR\git\xmlReporter\xmlReporter\obj\Debug\ResolveAssemblyReference.cache
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\log4net.dll
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\log4net.xml
+E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlReporter.exe.config

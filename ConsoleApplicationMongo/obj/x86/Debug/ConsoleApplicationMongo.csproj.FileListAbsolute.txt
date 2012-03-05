@@ -12,3 +12,8 @@ C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationM
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.exe
 C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.pdb
+E:\FSFR\git\xmlReporter\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.exe
+E:\FSFR\git\xmlReporter\ConsoleApplicationMongo\bin\Debug\ConsoleApplicationMongo.pdb
+E:\FSFR\git\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FSFR\git\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.exe
+E:\FSFR\git\xmlReporter\ConsoleApplicationMongo\obj\x86\Debug\ConsoleApplicationMongo.pdb

@@ -5,13 +5,18 @@ using System.Text;
 using xmlStorage;
 using System.ComponentModel;
 using System.Threading;
+using log4net;
 
 namespace xmlReporter
 {
     class Program
     {
+        public static readonly ILog log = LogManager.GetLogger(typeof(Program));
+
         static void Main(string[] args)
         {
+            log4net.Config.DOMConfigurator.Configure();
+            log.Warn("WARN");
             TestInsert();
         }
 

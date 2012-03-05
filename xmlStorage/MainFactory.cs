@@ -5,9 +5,10 @@ using System.Text;
 
 namespace xmlStorage
 {
-    public static class MainFactory
+    
+    public class MainFactory : IMainFactory
     {
-        public static T GetObject<T>()
+        public T GetObject<T>()
         {
             T obj = default(T);
             if (typeof(T)== typeof(DbSettings))
@@ -18,5 +19,10 @@ namespace xmlStorage
             }
             return obj;
         }
+    }
+
+    public interface IMainFactory
+    {
+        T GetObject<T>();
     }
 }

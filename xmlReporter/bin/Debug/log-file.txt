@@ -1,0 +1,1 @@
+2012-03-05 18:22:07,986 [10] WARN  xmlReporter.Program [(null)] - WARN
