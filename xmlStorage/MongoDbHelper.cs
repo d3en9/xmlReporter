@@ -52,12 +52,12 @@ namespace xmlStorage
         {
             try
             {
-                MongoCollection<BsonDocument> books =
+                MongoCollection<BsonDocument> docs =
                     db.GetCollection<BsonDocument>(collectionName);
                 BsonDocument doc = new BsonDocument();
                 object obj = doc.Deserialize(BsonReader.Create(Json), typeof(BsonDocument), 
                     new MongoDB.Bson.Serialization.Options.DocumentSerializationOptions(false));
-                books.Insert((BsonDocument)obj);
+                docs.Insert((BsonDocument)obj);
             }
             catch
             {

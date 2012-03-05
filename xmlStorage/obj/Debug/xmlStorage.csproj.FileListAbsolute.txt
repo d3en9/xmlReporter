@@ -20,3 +20,5 @@ E:\FSFR\git\xmlReporter\xmlStorage\obj\Debug\xmlStorage.dll
 E:\FSFR\git\xmlReporter\xmlStorage\obj\Debug\xmlStorage.pdb
 E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\log4net.dll
 E:\FSFR\git\xmlReporter\xmlStorage\bin\Debug\log4net.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\log4net.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlStorage\bin\Debug\log4net.xml

@@ -6,6 +6,7 @@ using xmlStorage;
 using System.ComponentModel;
 using System.Threading;
 using log4net;
+using System.IO;
 
 namespace xmlReporter
 {
@@ -15,8 +16,9 @@ namespace xmlReporter
 
         static void Main(string[] args)
         {
-            log4net.Config.DOMConfigurator.Configure();
-            log.Warn("WARN");
+            //log4net.Config.DOMConfigurator.Configure();
+            //log4net.Config.XmlConfigurator.Configure(new FileInfo(""));
+            //log.Warn("WARN");
             TestInsert();
         }
 

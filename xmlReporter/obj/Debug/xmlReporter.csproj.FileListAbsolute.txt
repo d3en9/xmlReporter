@@ -21,3 +21,6 @@ E:\FSFR\git\xmlReporter\xmlReporter\obj\Debug\ResolveAssemblyReference.cache
 E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\log4net.dll
 E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\log4net.xml
 E:\FSFR\git\xmlReporter\xmlReporter\bin\Debug\xmlReporter.exe.config
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\xmlReporter.exe.config
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\log4net.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\xmlReporter\xmlReporter\bin\Debug\log4net.xml
