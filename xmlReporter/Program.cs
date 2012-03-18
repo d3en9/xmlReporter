@@ -7,6 +7,8 @@ using System.ComponentModel;
 using System.Threading;
 using log4net;
 using System.IO;
+using xmlStorage.xmlConverterToJson;
+using System.Diagnostics;
 
 namespace xmlReporter
 {
@@ -19,7 +21,11 @@ namespace xmlReporter
             //log4net.Config.DOMConfigurator.Configure();
             //log4net.Config.XmlConfigurator.Configure(new FileInfo(""));
             //log.Warn("WARN");
-            TestInsert();
+            //TestInsert();
+            xmlConverterToJsonString converter = new xmlConverterToJsonString();
+            converter.Configure();
+            Debug.Print(converter.Rules.rootTagRule.tagName);
+
         }
 
         public static void TestInsert()

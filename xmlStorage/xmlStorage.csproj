@@ -60,7 +60,27 @@
     <Compile Include="MongoDbHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DbSettings.cs" />
-    <Compile Include="xmlConverterToJson.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="xmlConverterToJson\converterConfigFromXml.cs" />
+    <Compile Include="xmlConverterToJson\interfaces\IRule.cs" />
+    <Compile Include="xmlConverterToJson\interfaces\IXmlConverter.cs" />
+    <Compile Include="xmlConverterToJson\Rules\XsdRule.cs" />
+    <Compile Include="xmlConverterToJson\Rules\RootTagRule.cs" />
+    <Compile Include="xmlConverterToJson\Rules\xmlConverterRulesCollection.cs" />
+    <Compile Include="xmlConverterToJson\xmlConverterToJson.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xmlConverterToJson\xmlConverter.config">
+    </EmbeddedResource>
+    <Content Include="xmlConverterToJson\xslt\СООУРКИ\СООУРКИ015.xslt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
